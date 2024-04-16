@@ -1,5 +1,5 @@
 # 2108107010024_Pertemuan_11_ANN
-# 2108107010024_Pertemuan_11_ANN
+
 
 Nama: Ulan Sawalia
 
